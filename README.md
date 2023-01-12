@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhushan1010
 - 👀 I’m interested in frontend 
-- 🌱 I’m currently learning Html,java,css
+- 🌱 I’m currently learning Html,java,css,R
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me bhushansisode11@gmail.com
 
