@@ -2,7 +2,7 @@
 - 👀 I’m interested in making new project on AI,Data Science
 - 🌱 I’m currently learning Html,java,css,R,Python
 - 💞️ I’m looking to collaborate on open source
-- 📫 How to reach me bhushansisode11@gmail.com
+- 📫 How to reach me bhushan.22110543@viit.ac.in
 
 <!---
 Bhushan1010/Bhushan1010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
