@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhushan1010
 - 👀 I’m interested in making new project on AI,Data Science
-- 🌱 I’m currently learning Html,java,css,R,Python
+- 🌱 I’m currently learning Html,css,js,React,R,Python
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me bhushan.22110543@viit.ac.in
 
