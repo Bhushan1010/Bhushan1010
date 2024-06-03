@@ -4,9 +4,7 @@
 
 I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
-**About me**
-
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+**About me*
 
 - ❤️ I love writing Python - ML
 
