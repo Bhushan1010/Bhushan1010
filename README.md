@@ -46,16 +46,6 @@ A self-taught, passionate Frontend Developer and AI enthusiast from India 🇮�
 
 ---
 
-### 📜 Certifications
-
-- AWS Cloud Solutions Architect  
-- AWS Cloud Technology Consultant  
-- Google Data Analytics (Coursera)  
-- Google Project Management (Coursera)  
-- CCNA: Introduction to Networks (Cisco)
-
----
-
 ### 🌐 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/bhushansisode/)  
